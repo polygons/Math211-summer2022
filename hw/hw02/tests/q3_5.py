@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> round(sum(celsius_temperature_ranges))
-          768487.0
+          768487
           """,
           'hidden': False,
           'locked': False
